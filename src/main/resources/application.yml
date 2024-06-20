@@ -1,1 +1,6 @@
-spring.application.name=demo1
+spring:
+  application:
+    name: springKotlin
+
+server:
+  port: 5000
